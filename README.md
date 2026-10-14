@@ -1,1 +1,1 @@
-This repository is a collection of exercises, small projects, and experiments created while learning C# and the .NET framework using Microsoft Visual Studio. It serves as a sandbox for testing new concepts, debugging code, and tracking progression as a developer.
+
